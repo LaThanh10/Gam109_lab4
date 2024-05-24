@@ -1,0 +1,2 @@
+C:\Users\THANH\source\repos\lab4bai1\obj\Debug\lab4bai2.csproj.AssemblyReference.cache
+C:\Users\THANH\source\repos\lab4bai1\obj\Debug\lab4bai2.csproj.CoreCompileInputs.cache
